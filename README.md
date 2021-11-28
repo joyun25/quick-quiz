@@ -3,7 +3,7 @@
 ](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/learn/lecture/13685348#overview)，
 僅作學習用途。
 
-# [Github Pages](https://joyun25.github.io/quick-quiz/)
+### [Github Pages](https://joyun25.github.io/quick-quiz/)
 ![](https://i.imgur.com/SovbuJn.png)
 
 #### 功能：
